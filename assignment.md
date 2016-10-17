@@ -5,7 +5,7 @@ Build your map in ArcGIS. It should be georectified and include historic and con
 
 Part 2: Paper
 
-The paper should address the following:
+The 500-1500 word paper should address the following:
 
 - Discuss the process of georefencing and building your map. 
 - Assuming the reader is unfamiliar, contextualize  and develop some initial arguments about your map. (For exaple, you might pick a census tract and compare/contrast the past to present.)
