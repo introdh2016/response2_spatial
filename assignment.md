@@ -8,8 +8,8 @@ Part 2: Paper
 The 500-1500 word paper should address the following:
 
 - Discuss the process of georefencing and building your map. 
-- Assuming the reader is unfamiliar, contextualize  and develop some initial arguments about your map. (For exaple, you might pick a census tract and compare/contrast the past to present.)
-- As Richard White states, "visualization and spatial history are not about producing illustrations or maps to communicate things that you have discovered by other means. It is a means of doing research; it generates questions that might otherwise go unasked, it reveals historical relations that might otherwise go unnoticed, and it undermines, or substantiates, stories upon which our versions of the past" (White, What is Spatial History?,2010). What questions does your map generate about the past and the present?
+- Assuming the reader is unfamiliar, contextualize and develop some initial arguments about your map. (For example, you might pick a census tract and compare/contrast the past to present.)
+- As Richard White states, "visualization and spatial history are not about producing illustrations or maps to communicate things that you have discovered by other means. It is a means of doing research; it generates questions that might otherwise go unasked, it reveals historical relations that might otherwise go unnoticed, and it undermines, or substantiates, stories upon which our versions of the past" (White, What is Spatial History?, 2010). What questions does your map generate about the past and the present?
 - Drawing on the constraints, critiques and ideas (ex. "deep maps") outlined by Bodenhamer and Crampton, discuss the challenges of spatial analysis as applied to your map. How might you be able to address some of these issues in the future?
 
 # More details:
