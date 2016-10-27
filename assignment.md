@@ -20,7 +20,7 @@ The 500-1500 word paper should address the following:
 
 - Citations: Please use a modified  format since citations will be drawn from course readings. Cite relevant readings using in-text/ parenthetical citations: (author, publication, date). Ex. (Blevins, personal blog, 09-09-2009) or (Goldstone and Underwood, JDH, 2012). 
 
-- Grading: [Rubric](https://github.com/introdh2016/response1_textanalysis/blob/master/response_rubric.pdf)
+- Grading: [Rubric](https://github.com/introdh2016/response2_spatial/blob/master/rubric.pdf)
 
 
 
