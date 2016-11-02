@@ -1,7 +1,7 @@
 # Assignment 
 
 Part 1: Your Map
-Build your map in ArcGIS. It should be georectified and include historic and contemproary census data. Please make sure to save it to Box. 
+Build your map in ArcGIS. It should be georectified and include contemproary census data. Please make sure to save it to Box. 
 
 Part 2: Paper
 
