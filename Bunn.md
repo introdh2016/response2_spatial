@@ -15,8 +15,11 @@ In area A30 of our map of Essex county from “Mapping Inequality” it was give
 
 Citations;
 Bodenhamer, David, “Beyond GIS: Geospatial Technologies and the Future of History.” 2013
+
 Crampton, Mapping; A Critical Introduction to Geography, 2010
+
 Mapping inequality, https://dsl.richmond.edu/panorama/redlining/#loc=4/36.71/-96.93&opacity=0.8
+
 White, Richard. “What is spatial history?” February 1, 2010
 
 
