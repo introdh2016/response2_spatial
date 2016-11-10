@@ -13,7 +13,7 @@ The most basic and easily fixed issues are the more *aesthetic* issues like the 
 ![alt text](https://github.com/emblevs/maps/blob/master/Untitled.jpg?raw=true)
 
 The next map is easier to read with better colors and a closer view of the city:
-[alt text](https://github.com/emblevs/maps/blob/master/Un2titled.jpg?raw=true)
+![alt text](https://github.com/emblevs/maps/blob/master/Un2titled.jpg?raw=true)
 
 Another issue with these particular maps is the inability to account for fluctuations in population, environmental disasters, or economic downturns between the 1930s and the 2010s. Since this case  only uses two maps and census data from only one period in time, there is no way to track movements in populations and neighborhoods across time. It also cannot account for recent trends, like the gentrification of neighborhoods like the Marigny. 
 
