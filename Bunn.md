@@ -9,7 +9,8 @@ In area A30 of our map of Essex county from “Mapping Inequality” it was give
 	According to Bodenhamer, the challenge of spatial analysis is using “geospatial technologies to probe, explore, challenge, and complicate-in sum, to allow us to see, experience, and understand human behavior in all its complexity and to view its deep contingency. In the case of this project, I think we did what Bodenhamer suggested to a certain extent because we were able to draw conclusions about why demographics in certain areas of our hometowns are made up the way they are. We talked about how redlining was a process that shaped the way certain populations are scattered throughout the areas we analyzed. Bodenhamer also points out that there is tension when it comes to “linking a positivist technology with predominantly humanist traditions”, which is what is being done in geospatial analysis. This is interesting because if we were to analyze the maps we created from a humanist perspective, we might have respect for the fact that there are indeed exceptions and a certain level of ambiguity to what we are saying about the society. However, GIS allows us to break it down into very specific data, where we can analyze exactly how many exceptions there are and where they occur. This is when the clash between the two perspectives becomes apparent. 
 	Crampton mentions that there is often a tie between mapping/GIS and racist or discriminatory practices (such as redlining). He explores the argument that yes, these things exist as a result of mapping, however it can be used for both good and bad. Our project was an instance of mapping technology being used for good. We all were able to gain a better understanding of how the demographic was shaped in the areas we live. 
 
-![](Screen Shot 2016-11-10 at 9.36.38 AM)
+![screen shot 2016-11-10 at 9 36 38 am](https://cloud.githubusercontent.com/assets/21321117/20181352/d9bbb108-a72b-11e6-97a9-d41f5576fc51.png)
+
 
 
 Citations;
