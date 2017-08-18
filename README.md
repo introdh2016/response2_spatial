@@ -1,6 +1,4 @@
-# response2_spatial
-
-# Assignment 
+ # Spatial Assignment 
 
 Part 1: Your Map
 
